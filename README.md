@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Nimra Aamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimra aamir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Nimra Aamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nimra Aamir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimra-Lakhani09&show_icons=true&locale=en&layout=compact" alt="Nimra-Lakhani09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-lakhani09" alt="Nimra-Lakhani09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimra-Lakhani09" alt="Nimra-Lakhani09" /></p>
 
