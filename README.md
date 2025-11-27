@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimra-lakhani09&show_icons=true&locale=en" alt="nimra-lakhani09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimra-Lakhani09" alt="Nimra-Lakhani09" /></p>
-<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/46606bd6-a66a-45d4-a3fb-9ae3c9de93a2" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
