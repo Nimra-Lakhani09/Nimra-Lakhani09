@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web & App development.**
 
-- 💬 Ask me about **Html ,Css , github and any more....**
+- 💬 Ask me about **Html ,Css , github and many more....**
 
 - 📫 How to reach me **nimralakhani2611@gmail.com**
 
