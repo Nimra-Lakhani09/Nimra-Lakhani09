@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nimra-Lakhanilabel=Profile%20views&color=0e75b6&style=flat" alt="Nimra-Lakhani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nimra-Lakhani09" alt="nimra-lakhani09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nimra-Lakhani09" alt="Nimra-Lakhani09" /></a> </p>
 
 - 🌱 I’m currently learning **Web & App development.**
 
