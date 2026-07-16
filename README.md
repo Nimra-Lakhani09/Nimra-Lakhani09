@@ -4,7 +4,7 @@
 <img align="right" width="400px" src="https://thumbs.dreamstime.com/b/modern-muslim-girl-wearing-light-blue-hijab-sitting-desk-working-new-software-development-copy-space-muslim-woman-working-247532369.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nimra-Lakhani09&label=Profile%20views&color=0e75b6&style=flat" alt="Nimra-Lakhani09" /> </p>
 
-- 🌱 I’m currently working as a **Web and App Development** at internee.pk , fiverr and also teach as a lead trainer at SMIT 💪.
+- 🌱 I’m currently learning **Web and App Development** at SMIT.
 
 - 💬 Ask me about **Html ,CSS , JavaScript github and many more....**
 
