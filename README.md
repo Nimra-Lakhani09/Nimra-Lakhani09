@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra Aamir Lakhani</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan </h3>
 
-<img align="right" width="400px" src="[https://www.magnific.com/free-photos-vectors/hijabi-girl-coder](https://avatars.githubusercontent.com/u/182225159?v=4)">
+<img align="right" width="400px" src="https://thumbs.dreamstime.com/b/modern-muslim-girl-wearing-light-blue-hijab-sitting-desk-working-new-software-development-copy-space-muslim-woman-working-247532369.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nimra-Lakhani09&label=Profile%20views&color=0e75b6&style=flat" alt="Nimra-Lakhani09" /> </p>
 
 - 🌱 I’m currently working as a **Web and App Development** at internee.pk , fiverr and also teach as a lead trainer at SMIT 💪.
